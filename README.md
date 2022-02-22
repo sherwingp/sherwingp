@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Sherwin Panganiban 👋
 
-![Sherwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherwingp&count_private=true)
+![Sherwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherwingp&count_private=true&theme=aura_dark)
 
 Here are some things about me:
 
@@ -15,6 +15,7 @@ Here are some things about me:
   - How to dance!
 
 - 👯 I’m looking to collaborate on ...
+  - Anything you can convince me is fun!
 
 - 🤔 I’m looking for help with:
   - Getting a job!
