@@ -21,7 +21,7 @@ Here are some things about me:
   - Getting a job!
 
 - 💬 Ask me about:
-  - Any of my projects
+  - Any of my projects ⬇️⬇️
 
 - 📫 How to reach me:
   - Email: sherwingpanganiban@gmail.com
