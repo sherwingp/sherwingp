@@ -5,13 +5,14 @@
 Here are some things about me:
 
 - 🔭 I’m currently working on:
-  - A Meetup Organizer Discord Bot
+  - A LinkedIn viral post generator
+  - A Naruto Hand Seal Trainer
   - An AI Personal Trainer 
 
 - 🌱 I’m currently learning:
   - Data Structures and Algorithms
-  - Python (How to use it to make discord bots!)
-  - How to use Tensorflow to make an AI Personal Trainer
+  - Python
+  - How to use Tensorflow 
   - How to dance!
 
 - 👯 I’m looking to collaborate on ...
