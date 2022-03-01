@@ -8,7 +8,6 @@
 Here are some things about me:
 
 - 🔭 I’m currently working on:
-  - A LinkedIn viral post generator
   - A Naruto Hand Seal Trainer
   - An AI Personal Trainer 
 
