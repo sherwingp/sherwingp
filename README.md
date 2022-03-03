@@ -8,7 +8,7 @@
 Here are some things about me:
 
 - 🔭 I’m currently working on:
-  - A Naruto Hand Seal Trainer
+  - A gesture based paint app
   - An AI Personal Trainer 
 
 - 🌱 I’m currently learning:
@@ -16,12 +16,6 @@ Here are some things about me:
   - Python
   - How to use Tensorflow 
   - How to dance!
-
-- 👯 I’m looking to collaborate on ...
-  - Anything you can convince me is fun!
-
-- 🤔 I’m looking for help with:
-  - Getting a job!
 
 - 💬 Ask me about:
   - Any of my projects ⬇️⬇️
