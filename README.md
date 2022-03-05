@@ -5,6 +5,8 @@
 
 ![Sherwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherwingp&count_private=true&theme=aura_dark)
 
+Check out my [Online CV](https://github.com/sherwingp/github-cv) 
+
 Here are some things about me:
 
 - 🔭 I’m currently working on:
